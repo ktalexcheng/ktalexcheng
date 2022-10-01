@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Alex! 👋
+
+I'm self-taught software developer passionate about creating and coding.  
+🍩 Foodie. 🏎️ Motorsports fan. 🚀 Hyperactive.
+
+## 🔭 What I am working on
+
+* [DriverApp](https://github.com/ktalexcheng/driverapp): A car ride characteristic and quality monitoring app designed to evalute passenger comfort
+* [DriverApp API](https://github.com/ktalexcheng/driverapp_api): This API is used for creating and retrieving car ride data for DriverApp
 
 <!--
 **ktalexcheng/ktalexcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
