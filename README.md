@@ -5,8 +5,8 @@ I'm self-taught software developer passionate about creating and coding.
 
 ## 🔭 What I am working on
 
-* [DriverApp](https://github.com/ktalexcheng/driverapp): A car ride characteristic and quality monitoring app designed to evalute passenger comfort
-* [DriverApp API](https://github.com/ktalexcheng/driverapp_api): This API is used for creating and retrieving car ride data for DriverApp
+* [TrailBrake](https://github.com/ktalexcheng/trailbrake): A car ride characteristic and quality monitoring app designed to evalute passenger comfort
+* [TrailBrake API](https://github.com/ktalexcheng/trailbrake_api): This API is used for creating and retrieving car ride data for the TrailBrake app
 
 <!--
 **ktalexcheng/ktalexcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
