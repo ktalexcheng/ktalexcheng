@@ -6,8 +6,8 @@ I'm self-taught software developer passionate about creating and coding.
 ## 🔭 What I am working on
 
 * [TrailBrake](https://github.com/ktalexcheng/trailbrake): A car ride characteristic and quality monitoring app designed to evalute passenger comfort
-* [TrailBrake API](https://github.com/ktalexcheng/trailbrake_api): This API is used for creating and retrieving car ride data for the TrailBrake app
-* [TrailBrake Judge](https://github.com/ktalexcheng/trailbrake_judge): Python microservice hosting the model for evaluating ride quality
+  * [TrailBrake API](https://github.com/ktalexcheng/trailbrake_api): This API is used for creating and retrieving car ride data for the TrailBrake app
+  * [TrailBrake Judge](https://github.com/ktalexcheng/trailbrake_judge): Python microservice hosting the model for evaluating ride quality 
 
 <!--
 **ktalexcheng/ktalexcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
