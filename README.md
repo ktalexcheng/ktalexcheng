@@ -1,6 +1,6 @@
 # Hi, I'm Alex! 👋
 
-I'm software developer passionate about building things that make life just a bit more interesting. 🏃🚴🏋️🏂🏎️🧑‍🍳🍜🍩
+I'm software engineer passionate about building things that make life just a bit more interesting. 🏃🚴🏋️🏂🏎️🧑‍🍳🍜🍩
 
 ## 🔭 What I am working on
 
