@@ -1,6 +1,6 @@
 # Hi, I'm Alex! 👋
 
-I'm software engineer passionate about building things that make life just a bit more interesting. 🏃🚴🏋️🏂🏎️🧑‍🍳🍜🍩
+I'm a software engineer passionate about building things that make life just a bit more interesting. 🏃🚴🏋️🏂🏎️🧑‍🍳🍜🍩
 
 <!--
 **ktalexcheng/ktalexcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
